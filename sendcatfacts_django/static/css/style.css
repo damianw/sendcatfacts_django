@@ -1,0 +1,142 @@
+
+html {
+  min-height:100%;
+  min-width:980px;
+}
+
+#hero-subscribe {
+  padding: 10px 24px;
+  vertical-align: top;
+}
+
+.hero-unit {
+  margin-bottom: 20px;
+}
+.navbar .nav .login-list{
+  left: -150px;
+}
+
+.navbar .nav .login-list:before{
+  left: auto;
+  right: 15px;
+}
+
+.control-group {
+  margin-right: 15px;
+}
+
+.control-group .input.login-field{
+  width: 100%;
+  margin-right: 20px;
+}
+
+.login-form {
+  padding: 10px;
+}
+
+.row .span4 {
+  height: 100%;
+}
+
+.span4 .btn {
+  vertical-align: bottom;
+}
+
+.login-form .pull-right {
+  padding-top: 15px;
+}
+
+.login-form:before {
+  content: none;
+}
+/*.checkbox.rememberme {
+  padding: 10px 18px 0px 0px;
+}*/
+
+.youtube {
+  padding-bottom: 30px;
+}
+
+.pull-center {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.preheader {
+  height: 150px;
+  margin-bottom: 10px;
+}
+.preheader .container {
+  height: inherit;
+  width: 980px;
+  background-image: url('../img/logo_blue.png');
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.container {
+  width: 940px;
+}
+
+.tile .row {
+  margin-left: 0;
+}
+
+/*.container.main {
+  background: #FFF;
+  border: 20px solid white;
+}
+
+.preheader img {
+  margin-left: 250px;
+  margin-top: 25px;
+}
+
+.normalpage.preheader .container {
+  background-image: url('#');
+}
+
+.normalpage.preheader {
+  height: 60px;
+}*/
+/*
+.navbar .navbar-inner {
+  min-width:900px;
+  font-weight: bold;
+}
+.navbar .nav > li > a {
+  padding: 9px 13px 11px;
+}
+.normalpage .brand img {
+  height: 40px;
+  margin-top: -2px;
+  float: left;
+}
+
+.normalpage .navbar-inner {
+  width: 813px;
+  min-width:813px;
+}
+.normalpage .navbar .nav > li > a {
+  padding: 9px 9px 11px 9px;
+}
+
+.normalpage .brand img {
+  height: 40px;
+  margin-top: -2px;
+  float: left;
+}
+.normalpage .navbar {
+  float:left;
+  width:813px;
+  margin-left: 20px;
+}
+.normalpage .navbar-inner {
+  width: 813px;
+  min-width:813px;
+}
+.normalpage .navbar .nav > li > a {
+  padding: 9px 9px 11px 9px;
+}*/
